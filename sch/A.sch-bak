@@ -3,7 +3,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 2 5
+Sheet 2 9
 Title ""
 Date ""
 Rev ""
@@ -14,9 +14,9 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Sheet
-S 4950 3200 3000 1200
+S 3700 3250 3000 1200
 U 62CDCC32
-F0 "B" 787
-F1 "B.sch" 787
+F0 "B" 197
+F1 "B.sch" 197
 $EndSheet
 $EndSCHEMATC
